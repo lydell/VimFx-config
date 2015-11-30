@@ -17,7 +17,9 @@ This is the boilerplate needed to set it up.
 ## Setup
 
 1. [Download all files as a .zip][download] and extract it. That should result
-   in a directory called `VimFx-config@vimfx.org` containing seven files.
+   in a directory called `VimFx-config--vimfx.org` containing seven files.
+   Rename `VimFx-config--vimfx.org` to `VimFx-config@vimfx.org`. (Github don’t
+   allow `@` in their .zip names.)
 
 2. Find the `extensions` directory in your [profile directory].
 
