@@ -36,6 +36,7 @@ Now check out the [config file] documentation to get started customizing!
 
 [download]: https://github.com/lydell/VimFx-config/archive/@vimfx.org.zip
 [profile directory]: https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data
+[browser console]: https://developer.mozilla.org/en-US/docs/Tools/Browser_Console
 [config file]: https://github.com/akhodakivskiy/VimFx/blob/master/documentation/config-file.md
 
 
