@@ -1,0 +1,4 @@
+# This files allows bootstrap.js to find frame.js.
+# You don't need to touch this file.
+
+content vimfx-config ./
