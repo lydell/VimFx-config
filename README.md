@@ -32,11 +32,15 @@ That’s it! To check if it works:
 2. Open the [browser console]. You should see the message “Hello, World! This is
    vimfx:” followed by an inspection of VimFx’s public API.
 
+**Note:** Since Mozilla added [extension signing] things have gotten a bit more
+complicated.
+
 Now check out the [config file] documentation to get started customizing!
 
 [download]: https://github.com/lydell/VimFx-config/archive/@vimfx.org.zip
 [profile directory]: https://support.mozilla.org/en-US/kb/profiles-where-firefox-stores-user-data
 [browser console]: https://developer.mozilla.org/en-US/docs/Tools/Browser_Console
+[extension signing]: https://wiki.mozilla.org/Addons/Extension_Signing
 [config file]: https://github.com/akhodakivskiy/VimFx/blob/master/documentation/config-file.md
 
 
