@@ -56,7 +56,7 @@ ways to go:
 - Use a symlink. For example:
 
   ```
-  ln -s /home/you/.vimfx/ /home/you/.mozilla/abrowser/dgof8r37.default/extensions/VimFx-config@vimfx.org
+  ln -s /home/you/.vimfx/ /home/you/.mozilla/firefox/dgof8r37.default/extensions/VimFx-config@vimfx.org
   ```
 
 [proxy file]: https://developer.mozilla.org/en-US/Add-ons/Setting_up_extension_development_environment#Firefox_extension_proxy_file
