@@ -1,3 +1,13 @@
+# Deprecated
+
+[VimFx] 0.6.0–0.12.0 could optionally be configured by creating a separate
+add-on—a “Config file add-on.” It contained a “config file.” VimFx 0.13.0
+replaced this with being able to load that config file directly instead.
+
+Please move on to the [config file] documentation.
+
+The original readme follows below.
+
 # VimFx Config template
 
 [VimFx] can optionally be customized by a [config file].
